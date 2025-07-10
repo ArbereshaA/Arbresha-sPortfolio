@@ -6,7 +6,7 @@ const projects = [
     title: "KETA Real Estate Official Website",
     description:
       "An online platform offering premium real estate listings and investment opportunities, specializing in luxury properties across Dubai and beyond",
-    image: "/projects/ketareal.png",
+    image: "projects/ketareal.png",
     tags: ["React", "TailwindCSS", "PostgreSQL"],
     demoUrl: "#",
     githubUrl: "#",
@@ -16,7 +16,7 @@ const projects = [
     title: "KETA Job Official Website",
     description:
       "A Swiss recruitment platform specializing in healthcare and other industries.",
-    image: "/projects/ketajob.png",
+    image: "projects/ketajob.png",
     tags: ["React", "Node.js", "TwailwindCSS"],
     demoUrl: "#",
     githubUrl: "#",
@@ -26,7 +26,8 @@ const projects = [
     title: "KETA Immotreu Official Website",
     description:
       "A Swiss consulting firm offering fiduciary, tax, and real estate transaction services tailored to client needs",
-    image: "/projects/ketaimmotreu.png",
+    image: "projects/ketaimmotreu.png",
+
     tags: ["WordPress"],
     demoUrl: "#",
     githubUrl: "#",
@@ -36,7 +37,7 @@ const projects = [
     title: "Arbresha's Portfolio",
     description:
       "A website portfolio for a frontend developer, showcasing their skills, work experience, and projects.",
-    image: "/projects/APortfolio.png",
+    image: "projects/APortfolio.png",
     tags: ["React", "Node.js", "TwailwindCSS", "ThreeJs"],
     demoUrl: "#",
     githubUrl: "#",
